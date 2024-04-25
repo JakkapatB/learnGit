@@ -1,1 +1,3 @@
-Name : Boss
+Name: Boss
+Address: Kalasin
+Phone: 0956588305
